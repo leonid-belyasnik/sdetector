@@ -27,13 +27,7 @@ Build:
 `$build.sh`  
 * If successful, executables must appear in the `./bin` directory.  
 
-* If use CLion IDE or Qt Creator IDE:  
-
-`$mkdir build`   
-`$cd build`  
-`$cmake ..`  
-
-* Open in IDE CMakeLists.txt as project.  
+* If use CLion IDE or Qt Creator IDE: Open in IDE CMakeLists.txt as project.  
 
 Usage:
 -------
